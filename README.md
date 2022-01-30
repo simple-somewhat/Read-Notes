@@ -2,4 +2,4 @@
 ## Markdown
 [MarkdownText](Markdown/Markdown.txt)
 
-[Templates](Templates/C++ templates.txt)
+[Templates](Templates/C++templates.txt)
